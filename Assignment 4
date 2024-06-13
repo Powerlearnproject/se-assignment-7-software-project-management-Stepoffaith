@@ -8,4 +8,20 @@ Testing - System testing, performance testing, user acceptance testing.
 Deployment - Installing software, training users, finalizing documentation.
 Maintenance - Bug fixes, updates, enhancements based on user feedback.
 
-3. 
+3. 1. Agile:
+              Advantages
+  - Flexibility to adapt to changing requirements.
+  - Iterative development allows for frequent feedback.
+            Disadvantages
+  - Can lead to scope creep without proper oversight.
+  - Requires active involvement from the customer throughout the project.
+
+2. Waterfall:
+              Advantages
+  - Clear project milestones and deliverables.
+  - Simple to understand and implement.
+            Disadvantages
+  - Limited flexibility for changes once a phase is completed.
+  - Less customer involvement can lead to misalignment with requirements.
+
+4. 
