@@ -1,3 +1,11 @@
 1. Software project management is the process of planning, organizing, and overseeing software development projects to ensure they are completed on time and within budget. It is crucial because it helps maximize productivity, manage risks, and ensure successful project delivery.
 
-2. 
+2. Planning - Requirements gathering, defining scope, setting milestones.
+Analysis - Reviewing requirements, feasibility study, creating specifications.
+Design - Creating architecture, UI/UX design, detailed design planning.
+Implementation - Writing code, unit testing, integration testing.
+Testing - System testing, performance testing, user acceptance testing.
+Deployment - Installing software, training users, finalizing documentation.
+Maintenance - Bug fixes, updates, enhancements based on user feedback.
+
+3. 
